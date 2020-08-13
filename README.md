@@ -14,4 +14,4 @@ In this section of the course we will learn how to use pandas for data analysis.
 * Operations
 * Data Input and Output
 
-... Coming Soon ...
+**Happy Learning**
